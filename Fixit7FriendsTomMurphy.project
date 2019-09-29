@@ -22,14 +22,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "larger", 
-            "larger.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "friends", 
             "friends.json"
           ]
@@ -49,7 +41,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "larger", 
+      "firstform": "friends", 
       "fontFamily": "helvetica", 
       "height": "", 
       "homescreenTitle": "", 
